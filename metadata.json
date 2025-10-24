@@ -1,0 +1,7 @@
+{
+  "name": "Backward Vocal Fun",
+  "description": "An application to record your voice, play it backward, try to imitate the backward sound, and then hear the hilarious reversed result of your imitation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
